@@ -51,6 +51,7 @@
 		91EF68E12A4B0DB500BDA683 /* Pokemons */ = {
 			isa = PBXGroup;
 			children = (
+				91EF68F02A4B0DF800BDA683 /* Data */,
 				91EF68E22A4B0DB500BDA683 /* PokemonsApp.swift */,
 				91EF68E42A4B0DB500BDA683 /* ContentView.swift */,
 				91EF68E62A4B0DB600BDA683 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				91EF68E92A4B0DB600BDA683 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		91EF68F02A4B0DF800BDA683 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
